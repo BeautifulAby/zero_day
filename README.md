@@ -1,3 +1,1 @@
-0x00-vagrant
-this is my first repository
-
+This is my first repository as a full-stack engineer
